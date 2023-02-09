@@ -1,0 +1,5 @@
+class GetAllUsersService{
+
+}
+
+export{ GetAllUsersService}
